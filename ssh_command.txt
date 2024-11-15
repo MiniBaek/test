@@ -1,0 +1,1 @@
+ssh -L 5951:10.0.14.144:5951 ec2-user@18.102.228.145 -i kp-net-bastion.pem
